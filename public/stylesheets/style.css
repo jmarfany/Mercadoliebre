@@ -1,0 +1,65 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+.header{
+  background:#EAC926;
+  border: solid 20px #fff;
+  color:#03264C!important;
+  font-size: 12px;
+}
+.fas.fa-user-check{
+  color:#03264C!important;
+}  
+p i{
+  margin-right:10px;
+}
+.far.fa-address-card{
+  color:#03264C!important;
+}
+.fas.fa-sign-in-alt{
+  color:#03264C!important;
+}
+.fas.fa-shopping-basket{
+  color:#03264C!important;
+}
+.banner{
+  border: solid 20px #fff
+}
+
+H2{
+  font-size:24px;
+  color: #666;
+  background:#ebebeb;
+  border-bottom: solid 60px #ebebeb;
+}
+
+.precio{
+  font-size: 18px;
+}
+
+.descuento{
+  font-size: 16px;
+  color:#39b54a;
+}
+.descrip{
+  font-size: 16px;
+  color: #666;
+}
+
+.product{
+  border-top: solid 40px #ebebeb;
+}
+.fas.fa-truck{
+ color:#39b54a;
+}
+
+.fas{
+  color: #1259c3;
+}
+.parrafogral{
+  font-size: 12px;
+}
+/*footer h3{
+  border-bottom:25px;
+}*/
